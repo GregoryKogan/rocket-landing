@@ -13,3 +13,5 @@ This will take you demonstration mode. I trained rockets for 6000+ generations a
 perfomance of one of them.
 
 On mobile devices only demostration mode is available, because of lack of computing power for learning mode.
+
+You can try this out here: https://gregorykogan.github.io/RocketLanding-AI/
