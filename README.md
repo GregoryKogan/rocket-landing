@@ -1,6 +1,6 @@
 # RocketLanding-AI
 
-This is program that teaches rockets to land on platform in front of your eyes.
+This program teaches rockets to land on platform in front of your eyes.
 
 As most of my other AI projects, it uses my neural network library for learning.
 It teaches network with not very complicated genetic algorithm. It also uses batch learning,
