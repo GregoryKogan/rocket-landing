@@ -200,12 +200,10 @@ function mousePressed(){
 }
 
 function windowResized(){
-  if (Device == "Laptop")
-    resizeCanvas(windowWidth - 5, windowHeight - 5);
-  else if (HasTurned())
+  if (HasTurned())
     window.location.reload(false);
   else
-    resizeCanvas(windowWidth + 1, windowHeight + 1);
+    resizeCanvas(window.innerWidth, window.innerHeight);
 }
 
 function HasTurned(){
