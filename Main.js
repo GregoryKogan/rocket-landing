@@ -39,10 +39,7 @@ function setup() {
   }
   GlobalCamera = new Camera;
   CurrentGroup = Rockets.splice(0, RocketsPerGroup);
-  if (Device == "Laptop")
-    createCanvas(windowWidth - 5, windowHeight - 5);
-  else
-    createCanvas(windowWidth + 1, windowHeight + 1);
+  createCanvas(window.innerWidth, window.innerHeight);
   SetUpUI();
   frameRate(60);
 }
