@@ -1,6 +1,6 @@
 # rocket-landing
 
-![Lines of code](https://tokei.rs/b1/github/GregoryKogan/rocket-landing?style=for-the-badge)
+![Lines of code](https://tokei.ekzhang.com/b1/github/GregoryKogan/rocket-landing?style=for-the-badge)
 
 <p align="center">
   <img width="730" alt="image" src="https://github.com/GregoryKogan/RocketLanding-AI/assets/60318411/fc3b9375-9393-40a2-93bd-ca49dc95bfe8">
